@@ -12,5 +12,5 @@ int main() {
 
     printf("data: %d, result: %d\n", data, result);
 
-    return 0;
+    return 1;
 }
